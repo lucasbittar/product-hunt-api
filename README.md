@@ -21,3 +21,8 @@ Tools and technology used on this project:
 - Node.JS
 - MongoDB
 - Docker
+
+### Tips ###
+I highly recommend using [Insomnia](https://insomnia.rest/) app to play around with the requests in a simple and straight-forward UI.
+
+Thanks for checking this project out! Cheers!
